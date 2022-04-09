@@ -1445,12 +1445,15 @@ const Home = (props: HomeProps) => {
                       </div>
                     </div>
                     <p className="tw-mb-4 tw-text-gray-light">
-                                                        Free $BORZ or $TILL
-                                                        tokens with yur NFT
+                                                        The Degen Dojo
 
-                                                        Follow the smesh bros journey
+                                                        Dreadfully born into the post-Samurai era,
+                                                        some unremarkable halfwits struggle to find purpose in this disgustingly peaceful period of Japan.
 
-                                                        Trade & use tokens in a NEW ATHLETE ECONOMY
+                                                        With a burning desire to have their names etched into the histories,
+                                                        they are soon found battling for GLORY in a hidden dojo run by an elderly fanatic.
+
+                                                        These men were delusional...
                     </p>
                     <div className="tw-flex tw-flex-col tw-gap-4">
                       <div
@@ -1528,12 +1531,12 @@ const Home = (props: HomeProps) => {
                     <div className="overflow-hidden tw-w-full tw-mb-4 tw-flex-grow tw-rounded-3xl">
                       <div>
                         <img
-                          src="./img/project.jpeg"
+                          src="./img/project.jpg"
                           alt="Cynova"
                           className="tw-object-cover tw-aspect-square tw tw-w-screen tw-flex-grow tw-rounded-3xl overflow-hidden"
                         />
                         <img
-                          src="./img/project.jpeg"
+                          src="./img/project.jpg"
                           width={1}
                           height={1}
                           className="tw-absolute tw-invisible"
@@ -1755,10 +1758,11 @@ const Home = (props: HomeProps) => {
                       <div>
                         
                         <p className="tw-text-gray-light tw-mb-3 tw-text-[16] tx-line-[24]">
-                                                                EARLY ACCESS
-                                                                GAIN EARLY ACCESS TO NFTS AND TOKEN SALE BEFORE ANYONE ELSE.
-                                                                BE NOTIFIED FIRST FOR NEW DROPS,
-                                                                ATHLETE SIGNINGS AND ANNOUNCEMENTS
+                                                                The Secret Teahouse
+
+                                                                Each NFT will contain a rich amount of metadata that creates a unique character.
+                                                                The combat stats of each NFT is encrypted and can only be deciphered
+                                                                within the hidden teahouse of the Degen Dojo.
                         </p>
                       </div>
                     </div>
@@ -1777,29 +1781,30 @@ const Home = (props: HomeProps) => {
                         <div className="tw-p-4">
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        STEP 1:
+                                                                        Embrace the WARRIOR SPIRIT!
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                      
-                                                                        PURCHASE A SMESH BROS NFT
-                                                                        NFT ARTWORK BY WORLD FAMOUS MMA ARTIST DOSBRAK
+                                                                        HODLing NFTs in your wallet will keep your Degens training at the Dojo
+                                                                        and improve their combat stats! Consecutive weeks in the Dojo will amplify
+                                                                        the stats gained by your NFTs making them stronger and more valuable.
                             </p>
                             <br />
                           </div>
                          
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              STEP 2:
+                                                                        Decipher the hidden secrets of your NFT
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                                                                        
-                                                                        EARN $TILL OR $BORZ TOKEN BASED ON THE RARITY OF YOUR NFT
+                                                                        Ancient secrets stored within the metadata of your NFT using
+                                                                        blockchain encryption can only be deciphered at
+                                                                        the Dojo hidden teahouse - are you brave enough?
                             </p>
                             <br />
                           </div>
@@ -1807,14 +1812,17 @@ const Home = (props: HomeProps) => {
                           
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
-                              STEP 3:
+                                                                        Test your MIGHT!
                             </p>
                             <br />
                           </div>
                           <div className="tw-my-1">
                             <p className="tw-text-gray-light tw-text-md tw-text-[14px]">
                                                                         
-                                                                        REDEEM YOUR TOKENS AND ACCESS THE SMESH BROS
+                                                                        Stake your NFTs to earn $DOJOGLORY! Use $DOJOGLORY to fight other degenerates
+                                                                        of the dojo to rise up the ranks OR to evolve your NFT.
+                                                                        Fight against other players or battle the weekly
+                                                                        NPC boss for a chance to win NFTs and SOL.
                             </p>
                             <br />
                           </div>
