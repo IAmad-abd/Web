@@ -1750,13 +1750,7 @@ const Home = (props: HomeProps) => {
                             />
                           </svg>
                           <span>Twitter</span>
-                                                            </a>
-                                                            <a
-                                                                href="https://twitter.com/DegenDojoNFT"
-                                                                target="_blank"
-                                                                rel="noreferrer noopener"
-                                                                className="tw-border tw-border-solid tw-border-purple-1 tw-flex tw-items-center tw-gap-2 tw-w-fit tw-rounded-full tw-px-2.5 tw-py-1.5 tw-text-white-2"
-                                                            >
+                        </a>
                       </div>
                       <div>
                         
